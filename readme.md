@@ -1,0 +1,9 @@
+##应用
+有了Netty，
+你可以实现自己的HTTP服务器，
+FTP服务器，
+UDP服务器，
+RPC服务器，
+WebSocket服务器，
+Redis的Proxy服务器，
+MySQL的Proxy服务器等等。
